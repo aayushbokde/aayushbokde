@@ -66,6 +66,4 @@ If you have an idea or repo that could use an extra pair of hands (or eyes), fee
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushbokde&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+
