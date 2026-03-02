@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Bokde</h1>
-<h3 align="center">A passionate AI/ML developer 🤖</h3>
+<h3 align="center">A passionate AI developer 🤖</h3>
 
 - 🌱 I’m currently learning **Deep Learning, PyTorch, TensorFlow, LangChain, Gen AI**
 - ⚡ Fun fact **If someone had told me three years ago, “You’re going to love coding,” I would have replied, “Coding? What’s that?”**
