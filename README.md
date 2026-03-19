@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me 📝</h3>
 <p align="left">
-I’m a final-year <strong>Computer Science undergraduate</strong> who thrives on turning ideas into intelligent systems. My current focus is on <em>Generative AI and Agentic workflows</em>, and I spend most days building LLM-powered applications using <strong>LangChain</strong>, <strong>LangGraph</strong>, and modern AI tooling. 🔬
+I’m a Third-year <strong>Computer Science undergraduate</strong> who thrives on turning ideas into intelligent systems. My current focus is on <em>Generative AI and Agentic workflows</em>, and I spend most days building LLM-powered applications using <strong>LangChain</strong>, <strong>LangGraph</strong>, and modern AI tooling. 🔬
 <br /><br />
 I enjoy designing structured reasoning pipelines, experimenting with prompt engineering, and building AI systems that move beyond simple chat interfaces into decision-capable agents.
 </p>
